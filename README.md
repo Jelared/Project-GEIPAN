@@ -1,4 +1,4 @@
-# Project  : Data extraction
+# Data extraction
 
 ### Project objective
 Basic data extraction from website [GEIPAN](https://www.cnes-geipan.fr/)

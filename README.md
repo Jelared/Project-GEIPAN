@@ -7,3 +7,7 @@ Basic data extraction from website [GEIPAN](https://www.cnes-geipan.fr/)
 * beautifulSoup4
 * requests
 * pandas
+
+### **_Licence_**
+
+This project is licensed under the MIT license

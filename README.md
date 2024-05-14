@@ -1,9 +1,9 @@
 # Data extraction
 
-### Project objective
+### **_Project objective_**
 Basic data extraction from website [GEIPAN](https://www.cnes-geipan.fr/)
 
-### Python library
+### **_Python library_**
 * beautifulSoup4
 * requests
 * pandas

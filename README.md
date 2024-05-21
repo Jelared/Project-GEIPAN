@@ -24,7 +24,7 @@ A Python script for scraping data from the [GEIPAN](https://www.cnes-geipan.fr/)
 
 1. Clone the Repository
 
-```
+```bash
 git clone https://github.com/your-username/geipan-data-scraper.git
 cd geipan-data-scraper
 ```
@@ -32,14 +32,14 @@ cd geipan-data-scraper
 2. Install Dependencies
 
 _Install the required Python libraries using pip_
-```
+```python
 pip install beautifulsoup4 requests pandas
 ```
 
 3. Run the Script
 
 _nsure you have the script GEIPAN_Data_Scraper.ipynb in your directory. Then run the Jupyter notebook or convert it to a Python script and run it_
-```
+```bash
 jupyter notebook GEIPAN_Data_Scraper.ipynb
 ```
 _or convert to Python script_

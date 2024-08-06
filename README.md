@@ -1,18 +1,18 @@
 # GEIPAN Data Scraper
 
-### **_About_**
+## About
 
 A Python script for scraping data from the [GEIPAN](https://www.cnes-geipan.fr/) (Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non Identifiés). The script extracts information about UFO sightings, including the city, phenomenon, department, case classification, and observation date. The data is saved into a CSV file for further analysis.
 
 
 
-### **_Features_**
+## Features
 
 * Data Extraction: Scrape data from multiple pages of the GEIPAN website.
 * Data Processing: Organize the extracted data into a pandas DataFrame.
 * CSV Export: Save the processed data into a CSV file.
 
-### **_Technology_**
+## Technology
 
 * Python 3.x
 * BeautifulSoup
@@ -20,7 +20,7 @@ A Python script for scraping data from the [GEIPAN](https://www.cnes-geipan.fr/)
 * pandas
 * tkinter (for file dialog)
 
-### **_Usage_**
+## Install
 
 1. Clone the Repository
 

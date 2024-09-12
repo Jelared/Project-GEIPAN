@@ -52,7 +52,7 @@ python GEIPAN_Data_Scraper.py
 
 _Follow the prompts to select the location to save the CSV file._
 
-### **_Licence_**
+## Licence
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jelared/Project-GEIPAN?tab=MIT-1-ov-file) file for details.
 
